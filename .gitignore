@@ -1,1 +1,5 @@
 myenv/
+postgres_data/
+blog/migrations/
+blog/__pycache__/
+mysite/__pycache__/
